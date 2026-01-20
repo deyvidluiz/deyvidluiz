@@ -57,7 +57,7 @@
 <br>
 <br>
 
-## 🐍 Animação dos commits
+##
 
 <div align="center">
   <img 
