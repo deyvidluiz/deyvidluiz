@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="ChatGPT Image 20 de jan. de 2026, 13_42_52.png" />
+  <img align="center" height="150" src="pngegg.png" />
 </div>
 
 <div align="center">
