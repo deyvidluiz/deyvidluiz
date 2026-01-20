@@ -85,8 +85,8 @@
 
   <!-- Atualize com seus links reais -->
   [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:DeyvidMartins692@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff)](https:[//instagram.com/](https://www.instagram.com/_deyvid.wxl_?igsh=MjI4M2RtcGU4MHg0))
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https:[//linkedin.com/](https://www.linkedin.com/in/deyvid-martins-59aba3340?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+  [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/_deyvid.wxl_?igsh=MjI4M2RtcGU4MHg0)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/deyvid-martins-59aba3340?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 </div>
 
 <br>
