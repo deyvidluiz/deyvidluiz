@@ -1,59 +1,71 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B1220,50:164E63,100:2563EB&text=Deyvid%20Luiz&fontSize=52&fontColor=FFFFFF&fontAlignY=37&desc=Desenvolvimento%20Web%20%7C%20Python%20%26%20Django&descAlignY=59&descSize=17&animation=fadeIn" width="100%" alt="Banner de Deyvid Luiz" />
+<img src="assets/hero.svg" width="100%" alt="Deyvid Luiz — Desenvolvedor Python, Django e Web" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=Transformando+ideias+em+aplicações+web;Aprendendo%2C+construindo+e+evoluindo;Back-end+%7C+Front-end+%7C+Boas+práticas" alt="Apresentação animada" /></a>
+<br/>
 
-<a href="https://github.com/deyvidluiz?tab=repositories"><img src="https://img.shields.io/badge/PROJETOS-Explorar-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Projetos" /></a>
-<a href="https://github.com/deyvidluiz"><img src="https://img.shields.io/badge/GITHUB-@deyvidluiz-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+[**✦ EXPLORAR PROJETOS**](https://github.com/deyvidluiz?tab=repositories) &nbsp; • &nbsp; [**↗ MEU GITHUB**](https://github.com/deyvidluiz)
+
+**`print("Olá, mundo! 👋")`**
 
 </div>
 
-## `> sobre_mim`
+## ✦ Sobre mim
 
-Sou estudante de **Informática para Internet** e desenvolvedor em formação, com interesse em construir aplicações web úteis, intuitivas e bem estruturadas. Tenho trabalhado com projetos acadêmicos e pessoais que envolvem **Python, Django, interfaces web e bancos de dados**.
+Sou **Deyvid Luiz**, estudante de **Informática para Internet** e desenvolvedor em formação. Transformo ideias em aplicações web, com interesse especial em **Python, Django, back-end e bancos de dados**.
+
+Gosto de entender o funcionamento dos sistemas de ponta a ponta: da interface à lógica de negócio, da modelagem de dados à experiência de quem vai usar o produto.
 
 ```python
-class Developer:
-    name = "Deyvid Luiz"
-    focus = ["Web Development", "Python", "Django"]
-    mindset = "Aprender, construir e melhorar continuamente"
+class Deyvid:
+    foco = ["Back-end", "Desenvolvimento Web", "Projetos práticos"]
+    tecnologias = ["Python", "Django", "JavaScript", "SQL"]
+    em_evolucao = ["Arquitetura", "Testes", "APIs"]
+
+    def objetivo(self):
+        return "Criar soluções úteis, claras e bem construídas."
 ```
 
-## `> stack_tecnológica`
+## ✦ Tecnologias e ferramentas
 
 <div align="center">
-
-**Linguagens e front-end**
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Python, JavaScript, HTML e CSS" />
-
-**Back-end e banco de dados**
-
-<img src="https://skillicons.dev/icons?i=django,postgres,mysql,sqlite&theme=dark" alt="Django, PostgreSQL, MySQL e SQLite" />
-
-**Ferramentas e ambiente**
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" alt="Git, GitHub, Linux e VS Code" />
-
+  <img src="assets/stack.svg" width="100%" alt="Tecnologias: Python, Django, JavaScript, HTML, CSS, PostgreSQL, SQL, Git, GitHub, Linux e VS Code" />
 </div>
 
-> **Nota:** esta seleção é provisória. Para preservar *todas* as habilidades do README antigo com exatidão, precisamos recuperar a versão anterior no histórico do GitHub antes da publicação definitiva.
+<details>
+<summary><b>📚 Ver as habilidades por área</b></summary>
+<br/>
 
-## `> projetos_selecionados`
+| Área | Tecnologias e conhecimentos |
+| --- | --- |
+| **Back-end** | Python, Django |
+| **Front-end** | HTML5, CSS3, JavaScript |
+| **Dados** | SQL, PostgreSQL |
+| **Ferramentas** | Git, GitHub, Linux, VS Code |
+| **Práticas em desenvolvimento** | Modelagem de dados, autenticação, organização de projetos, testes e APIs |
+
+</details>
+
+## ✦ Projetos em destaque
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🌍 [GeoRisk](https://github.com/deyvidluiz/GEORISK)
-Plataforma para explorar informações geopolíticas e facilitar a compreensão de indicadores e acontecimentos internacionais.
+
+Plataforma web para explorar dados e informações geopolíticas de maneira acessível e visual.
+
+**Foco:** visualização de dados · informação · web
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏋️ [Vectra Fit](https://github.com/deyvidluiz/Vectra-fit)
-Sistema em desenvolvimento para gestão e acompanhamento de atividades no segmento fitness.
+
+Sistema em desenvolvimento para gestão e acompanhamento de atividades no contexto fitness.
+
+**Foco:** Python · Django · modelagem de dados
 
 </td>
 </tr>
@@ -61,43 +73,36 @@ Sistema em desenvolvimento para gestão e acompanhamento de atividades no segmen
 <td width="50%" valign="top">
 
 ### 💎 [Lapidar Joalheria](https://github.com/deyvidluiz/lapidar-joalheria)
-Vitrine digital com navegação por produtos e experiência de sacola de compras.
+
+Experiência web de vitrine de produtos, navegação de catálogo e sacola de compras.
+
+**Foco:** HTML · CSS · JavaScript
 
 </td>
 <td width="50%" valign="top">
 
-### 🌱 [SMCPA](https://github.com/deyvidluiz/SMCPA)
-Projeto de sistema de monitoramento e controle de pragas agrícolas.
+### 🚀 [Outros projetos](https://github.com/deyvidluiz?tab=repositories)
+
+Estudos, aplicações e experimentos desenvolvidos ao longo da formação técnica.
+
+**Foco:** aprender · construir · evoluir
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+## ✦ Minha trajetória
 
-[**Ver todos os repositórios →**](https://github.com/deyvidluiz?tab=repositories)
+- **Aprendendo:** aprofundar o desenvolvimento back-end e a construção de aplicações completas.
+- **Construindo:** projetos acadêmicos e soluções web com atenção à experiência do usuário.
+- **Próximos passos:** fortalecer testes, segurança, APIs e arquitetura de software.
 
-</div>
+## ✦ Vamos conversar?
 
-## `> github_em_números`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=deyvidluiz&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Estatísticas GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deyvidluiz&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Linguagens mais usadas" />
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=deyvidluiz&theme=github-compact&hide_border=true&area=true&custom_title=Atividade%20de%20desenvolvimento" alt="Gráfico de atividade" />
-
-</div>
-
----
+Se você também gosta de criar e aprender com projetos, conheça meus repositórios ou entre em contato pelo GitHub.
 
 <div align="center">
-
-**Curiosidade, consistência e código bem construído.**
-
-<sub>Obrigado por visitar meu perfil. Explore os projetos e acompanhe minha evolução.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=95&color=0:0B1220,50:164E63,100:2563EB" width="100%" alt="Rodapé" />
-
+  <a href="https://github.com/deyvidluiz?tab=repositories"><b>➜ VER TODOS OS REPOSITÓRIOS</b></a>
+  <br/><br/>
+  <img src="assets/footer.svg" width="100%" alt="Obrigado por visitar meu perfil no GitHub" />
 </div>
