@@ -1,103 +1,75 @@
-<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=header"/> -->
+<div align="center">
 
-<br>
+# Deyvid Luiz
+
+**Desenvolvedor em formação | Python · Django · Desenvolvimento Web**
+
+Construindo aplicações web com foco em organização, usabilidade e soluções práticas.
+
+[![GitHub](https://img.shields.io/badge/GitHub-deyvidluiz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deyvidluiz)
+[![Projetos](https://img.shields.io/badge/Explorar-projetos-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deyvidluiz?tab=repositories)
+
+</div>
+
+---
+
+### Sobre mim
+
+Sou estudante da área de **Informática para Internet** e desenvolvo projetos voltados à web, explorando desde a construção de interfaces até a lógica de negócio e a integração com bancos de dados.
+
+Tenho interesse especial em **desenvolvimento back-end com Python e Django**, boas práticas de programação e na criação de sistemas úteis, acessíveis e fáceis de manter.
+
+- **Foco atual:** aplicações web e arquitetura de projetos.
+- **Experiência prática:** projetos acadêmicos e desenvolvimento colaborativo.
+- **Em evolução:** testes, segurança, APIs e bancos de dados.
+
+### Tecnologias
+
+**Back-end e dados**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-334155?style=flat-square)
+
+**Front-end**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square)
+
+### Projetos em destaque
+
+| Projeto | Descrição | Repositório |
+| :--- | :--- | :--- |
+| **GeoRisk** | Plataforma de consulta e visualização de informações geopolíticas. | [Ver projeto](https://github.com/deyvidluiz/GEORISK) |
+| **Vectra Fit** | Projeto de sistema para gestão e acompanhamento no contexto fitness. | [Ver projeto](https://github.com/deyvidluiz/Vectra-fit) |
+| **Lapidar Joalheria** | Site de vitrine de produtos, com experiência de navegação e sacola. | [Ver projeto](https://github.com/deyvidluiz/lapidar-joalheria) |
+| **SMCPA** | Projeto de sistema voltado ao monitoramento e controle de pragas agrícolas. | [Ver projeto](https://github.com/deyvidluiz/SMCPA) |
+
+### Atividade no GitHub
 
 <div align="center">
-  <img align="center" height="150" src="pngegg.png" />
+
+[![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=deyvidluiz&theme=github-compact&hide_border=true&area=true)](https://github.com/deyvidluiz)
+
 </div>
+
+> Além dos projetos em destaque, mantenho outros repositórios de estudo, experimentação e desenvolvimento no meu [perfil](https://github.com/deyvidluiz?tab=repositories).
+
+---
 
 <div align="center">
-  <samp>
-      <br>
-      Olá! Eu sou <b>Deyvid Martins</b>
-  </samp>
+
+**Aberto a aprender, colaborar e desenvolver novas soluções.**
+
+[Conheça meus repositórios](https://github.com/deyvidluiz?tab=repositories)
+
 </div>
-
-<div align="center" width="100%">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7f9f7f&width=900&size=22&center=true&lines=Seja+bem-vindo!;Sou+Deyvid+Martins;Estudante+de+Desenvolvimento+Full-stack;" 
-    alt="Typing SVG"
-  />
-</div>
-
-
-<div align="center">
-  <img src="https://img.shields.io/badge/deyvidluiz-yelonk" />
-</div>
-      
-<br>
-<br>
-      
-<div align="center">
-  <img height="165" align="center" alt="Estatísticas do GitHub" 
-       src="https://github-readme-stats.vercel.app/api?username=deyvidluiz&hide_border=true&show_icons=true&rank_icon=github&title_color=7f9f7f&icon_color=7f9f7f&text_color=fff&bg_color=0d1117">
-  
-  <img height="180" align="center" alt="Linguagens mais usadas" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=deyvidluiz&layout=compact&hide_border=true&title_color=7f9f7f&text_color=fff&bg_color=0d1117">
-  
-  <br><br>
-  
-  <img align="center" alt="Resumo do perfil" 
-       src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deyvidluiz&theme=zenburn"/>
-</div>
-
-<br>
-
-<div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
-</div>
-
-<br>
-<br>
-
-##
-
-<div align="center">
-  <img 
-    src="https://github.com/deyvidluiz/deyvidluiz/blob/output/github-contribution-grid-snake.svg" 
-    alt="Cobrinha comendo os commits"
-  />
-</div>
-
-<br>
-
-<details align="center">  
-  <summary>
-      <samp>
-        <b>Mais informações</b>
-      </samp>
-  </summary>
-  
-<br>
-
-<div align="center">
-  <samp>
-    <b>Entre em contato comigo:</b>
-  </samp>
-  <br><br>
-
-  <!-- Atualize com seus links reais -->
-  [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:DeyvidMartins692@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/_deyvid.wxl_?igsh=MjI4M2RtcGU4MHg0)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/deyvid-martins-59aba3340?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-</div>
-
-<br>
-</details>
-
-<!-- <br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=deyvidluiz&style=flat-square&color=123845" />
-</div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=footer"/> -->
