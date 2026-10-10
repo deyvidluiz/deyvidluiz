@@ -1,75 +1,103 @@
 <div align="center">
 
-# Deyvid Luiz
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B1220,50:164E63,100:2563EB&text=Deyvid%20Luiz&fontSize=52&fontColor=FFFFFF&fontAlignY=37&desc=Desenvolvimento%20Web%20%7C%20Python%20%26%20Django&descAlignY=59&descSize=17&animation=fadeIn" width="100%" alt="Banner de Deyvid Luiz" />
 
-**Desenvolvedor em formação | Python · Django · Desenvolvimento Web**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=Transformando+ideias+em+aplicações+web;Aprendendo%2C+construindo+e+evoluindo;Back-end+%7C+Front-end+%7C+Boas+práticas" alt="Apresentação animada" /></a>
 
-Construindo aplicações web com foco em organização, usabilidade e soluções práticas.
+<a href="https://github.com/deyvidluiz?tab=repositories"><img src="https://img.shields.io/badge/PROJETOS-Explorar-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Projetos" /></a>
+<a href="https://github.com/deyvidluiz"><img src="https://img.shields.io/badge/GITHUB-@deyvidluiz-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-deyvidluiz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deyvidluiz)
-[![Projetos](https://img.shields.io/badge/Explorar-projetos-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deyvidluiz?tab=repositories)
+</div>
+
+## `> sobre_mim`
+
+Sou estudante de **Informática para Internet** e desenvolvedor em formação, com interesse em construir aplicações web úteis, intuitivas e bem estruturadas. Tenho trabalhado com projetos acadêmicos e pessoais que envolvem **Python, Django, interfaces web e bancos de dados**.
+
+```python
+class Developer:
+    name = "Deyvid Luiz"
+    focus = ["Web Development", "Python", "Django"]
+    mindset = "Aprender, construir e melhorar continuamente"
+```
+
+## `> stack_tecnológica`
+
+<div align="center">
+
+**Linguagens e front-end**
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Python, JavaScript, HTML e CSS" />
+
+**Back-end e banco de dados**
+
+<img src="https://skillicons.dev/icons?i=django,postgres,mysql,sqlite&theme=dark" alt="Django, PostgreSQL, MySQL e SQLite" />
+
+**Ferramentas e ambiente**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" alt="Git, GitHub, Linux e VS Code" />
+
+</div>
+
+> **Nota:** esta seleção é provisória. Para preservar *todas* as habilidades do README antigo com exatidão, precisamos recuperar a versão anterior no histórico do GitHub antes da publicação definitiva.
+
+## `> projetos_selecionados`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌍 [GeoRisk](https://github.com/deyvidluiz/GEORISK)
+Plataforma para explorar informações geopolíticas e facilitar a compreensão de indicadores e acontecimentos internacionais.
+
+</td>
+<td width="50%" valign="top">
+
+### 🏋️ [Vectra Fit](https://github.com/deyvidluiz/Vectra-fit)
+Sistema em desenvolvimento para gestão e acompanhamento de atividades no segmento fitness.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💎 [Lapidar Joalheria](https://github.com/deyvidluiz/lapidar-joalheria)
+Vitrine digital com navegação por produtos e experiência de sacola de compras.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 [SMCPA](https://github.com/deyvidluiz/SMCPA)
+Projeto de sistema de monitoramento e controle de pragas agrícolas.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[**Ver todos os repositórios →**](https://github.com/deyvidluiz?tab=repositories)
+
+</div>
+
+## `> github_em_números`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=deyvidluiz&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Estatísticas GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deyvidluiz&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Linguagens mais usadas" />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=deyvidluiz&theme=github-compact&hide_border=true&area=true&custom_title=Atividade%20de%20desenvolvimento" alt="Gráfico de atividade" />
 
 </div>
 
 ---
 
-### Sobre mim
-
-Sou estudante da área de **Informática para Internet** e desenvolvo projetos voltados à web, explorando desde a construção de interfaces até a lógica de negócio e a integração com bancos de dados.
-
-Tenho interesse especial em **desenvolvimento back-end com Python e Django**, boas práticas de programação e na criação de sistemas úteis, acessíveis e fáceis de manter.
-
-- **Foco atual:** aplicações web e arquitetura de projetos.
-- **Experiência prática:** projetos acadêmicos e desenvolvimento colaborativo.
-- **Em evolução:** testes, segurança, APIs e bancos de dados.
-
-### Tecnologias
-
-**Back-end e dados**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-334155?style=flat-square)
-
-**Front-end**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Ferramentas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square)
-
-### Projetos em destaque
-
-| Projeto | Descrição | Repositório |
-| :--- | :--- | :--- |
-| **GeoRisk** | Plataforma de consulta e visualização de informações geopolíticas. | [Ver projeto](https://github.com/deyvidluiz/GEORISK) |
-| **Vectra Fit** | Projeto de sistema para gestão e acompanhamento no contexto fitness. | [Ver projeto](https://github.com/deyvidluiz/Vectra-fit) |
-| **Lapidar Joalheria** | Site de vitrine de produtos, com experiência de navegação e sacola. | [Ver projeto](https://github.com/deyvidluiz/lapidar-joalheria) |
-| **SMCPA** | Projeto de sistema voltado ao monitoramento e controle de pragas agrícolas. | [Ver projeto](https://github.com/deyvidluiz/SMCPA) |
-
-### Atividade no GitHub
-
 <div align="center">
 
-[![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=deyvidluiz&theme=github-compact&hide_border=true&area=true)](https://github.com/deyvidluiz)
+**Curiosidade, consistência e código bem construído.**
 
-</div>
+<sub>Obrigado por visitar meu perfil. Explore os projetos e acompanhe minha evolução.</sub>
 
-> Além dos projetos em destaque, mantenho outros repositórios de estudo, experimentação e desenvolvimento no meu [perfil](https://github.com/deyvidluiz?tab=repositories).
-
----
-
-<div align="center">
-
-**Aberto a aprender, colaborar e desenvolver novas soluções.**
-
-[Conheça meus repositórios](https://github.com/deyvidluiz?tab=repositories)
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=95&color=0:0B1220,50:164E63,100:2563EB" width="100%" alt="Rodapé" />
 
 </div>
